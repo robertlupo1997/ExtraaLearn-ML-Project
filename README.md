@@ -144,3 +144,29 @@ By leveraging data-driven insights and implementing the recommended strategies, 
   - seaborn
   - scikit-learn
   - statsmodels
+---
+
+## How to View the Notebook
+1. **Option 1:** View the HTML file directly in your browser by clicking on `RobertLupo_FDS_Project_LearnerNotebook_FullCode.html`.  
+2. **Option 2:** Use [nbviewer](https://nbviewer.jupyter.org/) to view the `.ipynb` file online.  
+3. **Option 3:** Clone the repository and open the notebook using Jupyter Notebook or JupyterLab.
+
+---
+
+## Acknowledgments
+- **MIT Institute for Data, Systems, and Society (IDSS):**  
+  This project was completed as part of the MIT-IDSS Data Science and Machine Learning Program.  
+- **Instructors and Mentors:**  
+  Special thanks to the instructors and mentors who provided guidance throughout the project.  
+- **Open-Source Libraries:**  
+  This project utilized open-source libraries such as `pandas`, `numpy`, `matplotlib`, and `seaborn`.
+
+---
+
+## About the Author
+**Robert Lupo**  
+- **Email:** treylupo1197@gmail.com  
+- **LinkedIn:** [Robert Lupo](https://www.linkedin.com/in/robertlupo1997/)  
+- **GitHub:** [Robert Lupo](https://github.com/robertlupo1997)  
+
+Data Scientist with a passion for uncovering insights from data and turning them into actionable business strategies.
